@@ -1,1 +1,1 @@
-
+copy /y SduEdu.exe "C:\Program Files (x86)\Acer\acer 云桌面多媒体教学系统\student\"
